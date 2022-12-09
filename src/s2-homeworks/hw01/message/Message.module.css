@@ -1,0 +1,34 @@
+.message {
+  
+}
+
+.imageAndText {
+    display: flex;
+    flex-direction: row-reverse;
+    
+}
+
+.imageAndText img {
+    height: 50px;
+}
+
+.text {
+
+}
+
+.text:after {
+
+}
+
+.name {
+
+}
+
+.messageText {
+
+}
+
+.time {
+    display: flex;
+    flex-direction: row-reverse;
+}
